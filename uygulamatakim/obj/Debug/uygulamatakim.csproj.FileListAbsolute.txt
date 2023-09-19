@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\bin\Debug\uygulamatakim.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\bin\Debug\uygulamatakim.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\bin\Debug\uygulamatakim.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygulamatakim\uygulamatakim\obj\Debug\uygulamatakim.pdb
